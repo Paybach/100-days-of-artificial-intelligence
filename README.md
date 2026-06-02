@@ -12,8 +12,10 @@ build something small, and keep a visible record of the work.
 5. Use [RESOURCES.md](RESOURCES.md) when you need a trusted starting point.
 6. Commit the result so the repository becomes your portfolio over time.
 
-Start with [Day 001](days/day-001-ai-map-and-goals/README.md). For later days,
-create a log from the reusable template:
+Start with [Day 001](days/day-001-ai-map-and-goals/README.md), then use the
+[daily worksheet index](days/README.md) to open the next lesson.
+
+To locate a worksheet quickly from PowerShell, run:
 
 ```powershell
 .\scripts\start-day.ps1 -Day 2 -Title "Python environment and notebooks"

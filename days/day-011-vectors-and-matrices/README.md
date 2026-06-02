@@ -1,0 +1,55 @@
+# Day 011: Vectors and matrices
+
+## Goal
+
+Understand **Vectors and matrices** and complete this practical task: **Represent data as vectors and matrices**
+
+Your evidence for today is: **Math notes**
+
+## Research Questions
+
+- What problem does Vectors and matrices solve?
+- Where does it fit in an AI or machine-learning workflow?
+- Which concepts, code, or metrics should you be able to explain after today's work?
+- What is one limitation, source of error, or responsible-use question to consider?
+
+## Starting Points
+
+- [Python tutorial](https://docs.python.org/3/tutorial/)
+- [NumPy learn](https://numpy.org/learn/)
+- [pandas getting started](https://pandas.pydata.org/docs/getting_started/index.html)
+- Related milestone: [Data story project](../../projects/project-01-data-story/README.md)
+- Browse the broader [resource guide](../../RESOURCES.md) when you need another explanation.
+
+## Hands-on Work
+
+1. Read enough to answer the research questions in your own words.
+2. Complete today's task: **Represent data as vectors and matrices**
+3. Add your **Math notes** to this folder, or link to it under Artifact / Evidence.
+4. Record code, outputs, charts, or model results under Notes.
+
+## Completion Checklist
+
+- [ ] I answered the research questions in my own words.
+- [ ] I completed the hands-on task.
+- [ ] I added or linked my artifact.
+- [ ] I wrote a short reflection.
+- [ ] I marked Day 011 complete in [PROGRESS.md](../../PROGRESS.md).
+- [ ] I committed and pushed my work to GitHub.
+
+## Artifact / Evidence
+
+Add files, screenshots, links, charts, metrics, or a short output sample here.
+
+## Notes
+
+- Add research notes here.
+- Add code, output, or experiment notes here.
+
+## What I Learned
+
+- Add reflections here.
+
+## Next Step
+
+Continue with [Day 012: Matrix operations](../day-012-matrix-operations/README.md).

@@ -30,15 +30,10 @@ notebook in a single day.
 
 ## Start a Later Day
 
-From PowerShell:
-
-```powershell
-cd "C:\Users\noaha\OneDrive\Documents\New project\100-days-of-artificial-intelligence"
-.\scripts\start-day.ps1 -Day 2 -Title "Python environment and notebooks"
-```
-
-Then open the new folder under `days/`, complete the roadmap task, update
-[PROGRESS.md](PROGRESS.md), and publish your changes.
+Open the [daily worksheet index](days/README.md), select the current day, and
+follow its research prompts and hands-on steps. Each worksheet tells you what
+evidence to add before updating [PROGRESS.md](PROGRESS.md) and publishing your
+changes.
 
 ## Build Larger Projects
 

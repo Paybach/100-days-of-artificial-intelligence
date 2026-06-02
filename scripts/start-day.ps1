@@ -16,7 +16,8 @@ $targetFile = Join-Path $targetDirectory "README.md"
 $templateFile = Join-Path $repoRoot "templates/DAY_TEMPLATE.md"
 
 if (Test-Path $targetDirectory) {
-    throw "Day folder already exists: $targetDirectory"
+    Write-Host "Worksheet already exists: $targetFile"
+    exit 0
 }
 
 New-Item -ItemType Directory -Path $targetDirectory | Out-Null
