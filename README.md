@@ -19,6 +19,14 @@ create a log from the reusable template:
 .\scripts\start-day.ps1 -Day 2 -Title "Python environment and notebooks"
 ```
 
+New to Git and unsure what to do first? Follow [GETTING_STARTED.md](GETTING_STARTED.md).
+
+## Practical work
+
+- [Notebooks](notebooks/README.md) give you runnable exercises with room to experiment.
+- [Projects](projects/README.md) turn each learning phase into a portfolio piece.
+- [Git guide](GIT_GUIDE.md) shows how to publish each day's work to GitHub.
+
 ## Learning path
 
 | Days | Focus |
