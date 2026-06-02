@@ -19,8 +19,12 @@ one, note the user problem, the likely input data, the expected output, and one
 risk or limitation. Then choose one idea to revisit during the challenge.
 
 ## What I Learned
+Three AI Products I use:
+Codex which I use as an assistant to help me run maintence task on my home lab such as reviewing my automation scripts and letting me know where and how I can save storage space since everything is hosted locally
+ChatGPT to answer questions when I can't put the effort to look through multiple forums such as reddit, or if I need it to generate me a diagram that I might use for work 
+Apple inteliigence which helps me find certain photos in my Icloud / groups photos into folders
 
-- Add reflections after completing the exercise.
+I would like to self host my own LLM as it keeps my data private and it saves cost of credits and subscripions such as Claude code and OpenAI Codex. The input data would be LLM gathered from hugging face and I would need to see which ones are compatiable with my current hardware components  
 
 ## Next Step
 
